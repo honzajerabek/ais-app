@@ -1,0 +1,28 @@
+.env
+
+# react-native-config codegen
+ios/tmp.xcconfig
+
+vendor
+
+.idea
+
+ios/build
+ios/Pods
+
+# Android/IntelliJ
+#
+build/
+andoid/build
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+.kotlin/
+
+node_modules
+ios/.xcode.env.local
